@@ -1,0 +1,5 @@
+### PLEASE NOTE ###
+If you are using a Mac you must change the directory to yours in morse.c
+on line 14 fp = fopen("/Users/enterUserName/Desktop/MorseCode/morsecode.txt", "r");
+
+### FIX COMING SOON ###
